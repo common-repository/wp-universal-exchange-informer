@@ -1,0 +1,145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Universal Exchange Informer\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: santiaga <santiaga1@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: ru_RU\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+#: wp-uci-plugin.php:69
+msgid "Select bank to get exchange rates"
+msgstr "Выберите банк для получения курса валют"
+
+#: wp-uci-plugin.php:71
+msgid "Bank not selected"
+msgstr "Банк не выбран"
+
+#: wp-uci-plugin.php:83
+msgid "Title:"
+msgstr "Заголовок виджета:"
+
+#: wp-uci-plugin.php:88
+msgid "Select currencies"
+msgstr "Выберите валюты"
+
+#: wp-uci-plugin.php:93
+msgid "Currency"
+msgstr "Валюта"
+
+#: wp-uci-plugin.php:95
+msgid "Not active"
+msgstr "Не активна"
+
+#: wp-uci-plugin.php:115
+msgid "Save Changes"
+msgstr "Сохранить Настройки"
+
+#: wp-uci-plugin.php:211
+msgid "Lei"
+msgstr "Лей"
+
+#: wp-uci-plugin.php:212
+msgid "Grn"
+msgstr "Грн"
+
+#: wp-uci-plugin.php:213
+msgid "Rub"
+msgstr "Руб"
+
+#: wp-uci-plugin.php:204
+msgid "Title"
+msgstr "Название"
+
+#: wp-uci-plugin.php:205
+msgid "Bank name"
+msgstr "Банк"
+
+#: wp-uci-plugin.php:207
+msgid "Shortcode"
+msgstr "Шорт-код"
+
+#: wp-uci-plugin.php:208
+msgid "Options"
+msgstr "Опции"
+
+#: wp-uci-plugin.php:216
+msgid "Informers not found"
+msgstr "Информеры не найдены"
+
+#: wp-uci-plugin.php:216
+msgid "Create informer"
+msgstr "Создать информер"
+
+#: wp-uci-plugin.php:151
+msgid "New Informer Parameters"
+msgstr "Параметры Нового Информера"
+
+#: wp-uci-plugin.php:155
+msgid "Informer title"
+msgstr "Название информера"
+
+#: wp-uci-plugin.php:155
+msgid "Set title for informer"
+msgstr "Введите название для информера"
+
+#: wp-uci-plugin.php:177
+msgid "Currency not selected"
+msgstr "Валюта не выбрана"
+
+#: wp-uci-plugin.php:171
+msgid "Select currency"
+msgstr "Выберите валюту"
+
+#: wp-uci-plugin.php:189
+msgid "Add currency selector"
+msgstr "Добавить выбор валюты"
+
+#: wp-uci-plugin.php:191
+msgid "Save informer"
+msgstr "Сохранить информер"
+
+#: wp-uci-plugin.php:145
+msgid "WP Universal Exchange Informer Settings"
+msgstr "WP Universal Exchange Informer Настройки"
+
+#: /widget/exchange-widget.php:39
+msgid "Not selected"
+msgstr "Не выбран"
+
+#: /widget/exchange-widget.php:37
+msgid "Select informer:"
+msgstr "Выберите информер:"
+
+#: wp-uci-plugin.php:495
+msgid "Informer not selected!"
+msgstr "Информер не выбран!"
+
+#: wp-uci-plugin.php:194
+msgid "If allow_urls_open are off the plugin will not work (enable allow_urls_open options on yor hosting to use this plugin)."
+msgstr "Если allow_urls_open выключено то плагин не будет работать (включите allow_urls_open на вашем хостинге для работы этого плагина)."
+
+#: wp-uci-plugin.php:
+msgid "If SOAP is off plugin will not work with The Central Bank of Armenia and National Bank Of Georgia, if you need rates from this banks please install PHP-SOAP module on your hosting."
+msgstr "Если SOAP выключен то плагин не будет работать с The Central Bank of Armenia и National Bank Of Georgia, если вам нужен курс с этих ресурсов установите модуль PHP-SOAP на вашем хостинге."
+
+#: wp-uci-plugin.php:365
+msgid "Sum"
+msgstr "Сум"
+
+#: wp-uci-plugin.php:366
+msgid "Ten"
+msgstr "Тен"
+
+#: wp-uci-plugin.php:367
+msgid "Dra"
+msgstr "Дра"
+
+#: wp-uci-plugin.php:368
+msgid "Lar"
+msgstr "Лар"

@@ -1,0 +1,135 @@
+#: wp-uci-plugin.php:69
+msgid "Select bank to get exchange rates"
+msgstr ""
+
+#: wp-uci-plugin.php:71
+msgid "Bank not selected"
+msgstr ""
+
+#: wp-uci-plugin.php:83
+msgid "Widget title"
+msgstr ""
+
+#: wp-uci-plugin.php:86
+msgid "Number of currencies in widget"
+msgstr ""
+
+#: wp-uci-plugin.php:88
+msgid "Select currencies"
+msgstr ""
+
+#: wp-uci-plugin.php:93
+msgid "Currency"
+msgstr ""
+
+#: wp-uci-plugin.php:95
+msgid "Not active"
+msgstr ""
+
+#: wp-uci-plugin.php:115
+msgid "Save Changes"
+msgstr ""
+
+#: wp-uci-plugin.php:211
+msgid "Lei"
+msgstr ""
+
+#: wp-uci-plugin.php:212
+msgid "Grn"
+msgstr ""
+
+#: wp-uci-plugin.php:213
+msgid "Rub"
+msgstr ""
+
+#: wp-uci-plugin.php:204
+msgid "Title"
+msgstr ""
+
+#: wp-uci-plugin.php:205
+msgid "Bank name"
+msgstr ""
+
+#: wp-uci-plugin.php:207
+msgid "Shortcode"
+msgstr ""
+
+#: wp-uci-plugin.php:208
+msgid "Options"
+msgstr ""
+
+#: wp-uci-plugin.php:216
+msgid "Informers not found"
+msgstr ""
+
+#: wp-uci-plugin.php:216
+msgid "Create informer"
+msgstr ""
+
+#: wp-uci-plugin.php:151
+msgid "New Informer Parameters"
+msgstr ""
+
+#: wp-uci-plugin.php:155
+msgid "Informer title"
+msgstr ""
+
+#: wp-uci-plugin.php:155
+msgid "Set title for informer"
+msgstr ""
+
+#: wp-uci-plugin.php:177
+msgid "Currency not selected"
+msgstr ""
+
+#: wp-uci-plugin.php:171
+msgid "Select currency"
+msgstr ""
+
+#: wp-uci-plugin.php:189
+msgid "Add currency selector"
+msgstr ""
+
+#: wp-uci-plugin.php:191
+msgid "Save informer"
+msgstr ""
+
+#: wp-uci-plugin.php:145
+msgid "WP Universal Exchange Informer Settings"
+msgstr ""
+
+#: /widget/exchange-widget.php:39
+msgid "Not selected"
+msgstr ""
+
+#: /widget/exchange-widget.php:37
+msgid "Select informer:"
+msgstr ""
+
+#: wp-uci-plugin.php:495
+msgid "Informer not selected!"
+msgstr ""
+
+#: wp-uci-plugin.php:194
+msgid "If allow_urls_open are off the plugin will not work (enable allow_urls_open options on yor hosting to use this plugin)."
+msgstr ""
+
+#: wp-uci-plugin.php:
+msgid "If SOAP is off plugin will not work with The Central Bank of Armenia and National Bank Of Georgia, if you need rates from this banks please install PHP-SOAP module on your hosting."
+msgstr ""
+
+#: wp-uci-plugin.php:365
+msgid "Sum"
+msgstr ""
+
+#: wp-uci-plugin.php:366
+msgid "Ten"
+msgstr ""
+
+#: wp-uci-plugin.php:367
+msgid "Dra"
+msgstr ""
+
+#: wp-uci-plugin.php:368
+msgid "Lar"
+msgstr ""
